@@ -1,0 +1,10 @@
+#all{
+  display: flex;
+}
+
+.cart_wrapper{
+  width: 20%;
+}
+.card_wrapper{
+  width: 80%;
+}
